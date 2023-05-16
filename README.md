@@ -20,7 +20,7 @@ JokesWebApp is a web application built with ASP.NET Core MVC framework. It allow
 
 To run this project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/JokesWebApp.git
+- Clone the repository: git clone https://github.com/Armin-AF/JokesWebApp.git
 - Navigate to the project directory: cd JokesWebApp
 - Restore the dependencies: dotnet restore
 - Build the project: dotnet build
